@@ -1,0 +1,62 @@
+site_name: DOOR3 Engineering
+site_url: http://localhost:8000/
+copyright: Copyright &copy;2023 DOOR3
+repo_url: https://github.com/Door3Dev/engineering-documentation
+edit_uri: tree/main/documentation/gh_pages/
+docs_dir: gh_pages
+plugins:
+  - search
+  - git-revision-date-localized
+theme:
+  name: material
+  logo: assets/images/d3-logo.svg
+  icon:
+    repo: fontawesome/brands/git-alt
+  custom_dir: gh_pages/overrides
+  locale: en
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.top
+    - navigation.instant.prefetch
+    - navigation.path
+    - navigation.prune
+    - toc.integrate
+    - content.action.edit
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - search.suggest
+    - search.highlights
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: "#1737D0"
+      accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: "#1737D0"
+      accent: blue
+markdown_extensions:
+  - toc:
+      permalink: false
+      title: On this page
+      toc_depth: 0
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
