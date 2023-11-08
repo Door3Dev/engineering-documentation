@@ -20,6 +20,7 @@ For first time
 python -m venv venv
 source venv/bin/activate
 pip install mkdocs-material
+pip install mkdocs-git-revision-date-localized-plugin
 mkdocs serve -f documentation/mkdocs.yml
 ```
 After installation
