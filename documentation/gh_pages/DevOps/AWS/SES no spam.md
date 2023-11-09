@@ -1,5 +1,6 @@
 ---
 title: Prevent project emails from getting into spam folder
+template: third-level-navigation.html
 ---
 ### General idea is to send emails from a custom domain with AWS SES. To make it work you will need access to domain registrar.
 
