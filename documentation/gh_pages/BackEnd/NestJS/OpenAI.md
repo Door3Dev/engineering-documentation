@@ -1,5 +1,5 @@
 ---
-title: OpenAI integration
+title: 2. OpenAI integration
 template: third-level-navigation.html
 ---
 

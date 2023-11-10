@@ -1,5 +1,5 @@
 ---
-title: Send emails in NestJs with NodemailerTransport
+title: 3. Send emails in NestJs with NodemailerTransport
 template: third-level-navigation.html
 ---
 

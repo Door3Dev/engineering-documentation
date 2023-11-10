@@ -1,5 +1,5 @@
 ---
-title: Create database schema visualization
+title: 1. Create database schema visualization
 template: third-level-navigation.html
 ---
 
