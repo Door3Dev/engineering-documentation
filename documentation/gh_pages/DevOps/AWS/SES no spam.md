@@ -7,17 +7,17 @@ template: third-level-navigation.html
 1.  Go to AWS SES and create a new identity with identity type **Domain**
 
 	![A screenshot of a computer Description automatically
-	generated](/assets/images/ses1.png)
+	generated](/engineering-documentation/assets/images/ses1.png)
 
 	<br/>
 
 	![A screenshot of a computer Description automatically
-	generated](/assets/images/ses2.png)
+	generated](/engineering-documentation/assets/images/ses2.png)
 
 2.  SES will provide several CNAME key-value records for verification. They should be added to domain DNS records in **domain management console** at a domain registrar site.
 
 	![A screenshot of a email Description automatically
-	generated](/assets/images/ses3.png)
+	generated](/engineering-documentation/assets/images/ses3.png)
 
 3.  After successful verification it is possible to send mails from any email box under @some-domain.com (<support@some-domain.com>, <admin@some-domain.com>, etc.)
 
@@ -46,9 +46,9 @@ template: third-level-navigation.html
 		3.We do not manage bounces, complaints, and unsubscribe requests at the current moment. But we are not sending any marketing information. Also	we are going to create a specific email with a contact person to handle	all complaints once we go to production</em>
 
 	![A screenshot of a computer Description automatically
-	generated](/assets/images/ses4.png)
+	generated](/engineering-documentation/assets/images/ses4.png)
 
 	<br/>
 
 	![A screenshot of a computer Description automatically
-	generated](/assets/images/ses5.png)
+	generated](/engineering-documentation/assets/images/ses5.png)
