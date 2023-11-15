@@ -1,5 +1,5 @@
 site_name: DOOR3 Engineering
-site_url: http://localhost:8000/
+site_url: https://door3dev.github.io/engineering-documentation/
 copyright: Copyright &copy;2023 DOOR3
 repo_url: https://github.com/Door3Dev/engineering-documentation
 edit_uri: tree/main/documentation/gh_pages/
