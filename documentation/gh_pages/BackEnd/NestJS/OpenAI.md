@@ -7,7 +7,7 @@ template: third-level-navigation.html
 
 2.  Create new API key
 
-![screenshot1](/assets/images/openai1.png)
+![screenshot1](https://door3dev.github.io/engineering-documentation/assets/images/openai1.png)
 
 3.  To use OpenAI in nodejs project install openai npm package
     <https://www.npmjs.com/package/openai>
