@@ -39,9 +39,9 @@ Select Git repo `Branch` where all changes for the Figma tokens are going to be 
 
 Enter `File path` where figma tokens are located inside Git repository - `/tokens/figma/tokens.json`. 
 
-And click `Save` button. 
+And click `Save` button.
 
-![step6](/engineering-documentation/assets/images/figma/tokens/step5.png)
+<img alt="step6" height="400" src="/engineering-documentation/assets/images/figma/tokens/step6.png"/>
 
 Now you should see at the bottom of the **Tokens Studio for Figma** plugin window a new set of items - GitHub branch name (`figma-design-tokens`) and two icons - to pull changes from GitHub and to push changes from Figma to GitHub.
 
