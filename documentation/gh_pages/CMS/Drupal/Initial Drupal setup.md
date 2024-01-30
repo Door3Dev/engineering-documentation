@@ -80,5 +80,5 @@ fin p stop
 fin p restart
 ```
 
-### Additional information and lilnks:
-- Docksal installation and documentation https://docksal.io
+### Additional information and links:
+- Docksal installation and documentation <https://docksal.io>
