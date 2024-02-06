@@ -18,7 +18,7 @@ Our engineering team embodies Agile principles in the following ways:
 
 4. **Responding to Change**: We understand that requirements can change, and we embrace this fact. Our flexible development process allows us to pivot quickly and accommodate evolving customer needs or market dynamics.
 
-### Agile Workflow
+### Agile Workflow 
 Our Agile workflow consists of the following key elements:
 
 1. **Backlog Grooming**: We maintain a well-organized product backlog, which is continuously groomed to ensure that it contains well-defined user stories or tasks. The backlog is prioritized by business value and complexity.
