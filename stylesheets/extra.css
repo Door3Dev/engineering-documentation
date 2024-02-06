@@ -1,0 +1,14 @@
+:root {
+    --md-primary-fg-color: #1737D0;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-hue: 210;
+    .md-nav__item .md-nav__link--active{
+        color: #5a5af8;
+    }
+}
+
+.md-header__title {
+    margin-left: 0 !important;
+}
